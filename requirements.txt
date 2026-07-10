@@ -1,4 +1,4 @@
-trlc>=2.0.1
+trlc @ git+https://github.com/jptiz/trlc@jptiz-python314
 requests>=2.31.0
 libcst>=1.1.0
 PyYAML>=6.0
